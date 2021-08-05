@@ -7,6 +7,7 @@
     height: 100vh;
     font-family: 'Avenir';
     background-image: url(./img/animation-bg.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -515,7 +516,7 @@ hr{
 @media (max-width:720px) {
 
     .animation{
-        height: 406px;
+        height: 200px;
     }
 
     .welcome-inner h5{
